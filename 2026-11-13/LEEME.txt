@@ -1,0 +1,17 @@
+BOLETÍN OTPD
+============
+
+Este ZIP contiene la carpeta "2026-11-13" con:
+
+  index.html      El boletín que se abre en el navegador.
+  videos/         Los videos utilizados por el boletín.
+
+CÓMO PUBLICARLO
+1. Descomprime el ZIP.
+2. Sube la carpeta completa a tu hosting (por ejemplo, dentro de public_html/boletines/).
+3. Mantén juntos index.html y la carpeta videos.
+4. Abre https://tudominio.cl/boletines/2026-11-13/ en el navegador.
+5. Pega esa dirección en el editor, en Publicar → Enlace público.
+
+Si usas cPanel, puedes subir el ZIP y extraerlo allí mismo.
+No cambies el nombre de la carpeta videos si ya publicaste el enlace.
